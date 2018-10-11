@@ -1,0 +1,23 @@
+{
+  "name": "snake-exercise-flouvu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Snake.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/htl-perg-2018-19-4bhif/snake-exercise-Flouvu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/htl-perg-2018-19-4bhif/snake-exercise-Flouvu/issues"
+  },
+  "homepage": "https://github.com/htl-perg-2018-19-4bhif/snake-exercise-Flouvu#readme",
+  "dependencies": {
+    "ansi": "^0.3.1",
+    "keypress": "^0.2.1"
+  }
+}
